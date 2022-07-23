@@ -2,7 +2,7 @@
 
 ## Descriptions
 
-A simple implement for Brainfuck.
+A simple implement for Brainfuck Virtual Machine (or "Interpreter").
 Once can only read one file.
 
 ## Usage
